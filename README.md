@@ -9,7 +9,7 @@
 - 📫 How to reach me **araceli.rojas123@gmail.com**
 
 
-- ⚡ Fun facts **I love watermelon, hikings and yoga**
+- ⚡ Fun facts **i love watermelon 🍉 , hikings 🥾 and yoga 🧘‍♀️**
 
 
 <h3 align="left">Connect with me:</h3>
