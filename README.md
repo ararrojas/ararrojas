@@ -19,7 +19,7 @@
 
 ### 42 Projects:
 [![Libft bonus badge](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png?raw=true)](https://github.com/ararrojas/libft)
-[![ft_printf badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png?raw=true)](https://github.com/ararrojas/ft_printf)
+[![ft_printf badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png?raw=true)](https://github.com/ararrojas/ft_printf)
 [![GNL bonus badge](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true)](https://github.com/ararrojas/get_next_line)
 [![B2BR bonus badge](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png?raw=true)]
 
