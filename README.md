@@ -17,6 +17,11 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/araceli-rojas-arce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/araceli-rojas-arce" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">42 Projects:</h3>
+[![Libft bonus badge](https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png)](https://github.com/ararrojas/libft)
+[![ft_printf badge](https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png)](https://github.com/ararrojas/ft_printf)
+[![GNL bonus badge](https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png)](https://github.com/ararrojas/get_next_line)
+[![B2BR bonus badge](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png)]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
