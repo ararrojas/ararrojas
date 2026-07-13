@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ara 🦄</h1>
 
-<h3 align="center">junior backend engineer 💻 and forever student 🤍</h3>
+<h3 align="center">software engineer (backend) 💻 and eternal student 🤍</h3>
 
 
 - 📫 How to reach me -> **araceli.rojas123@gmail.com**
